@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sladjana! ⭐ </h1>
 <h3 align="center">A little about me ❤️ </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anasuzic&label=Profile%20views&color=0e75b6&style=flat" alt="anasuzic" /> </p>
+<p align="left"> <img src="https://media.tenor.com/tY8EBqkuF7IAAAAC/cat-keyboard-smash.gif" alt="anasuzic" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
