@@ -9,9 +9,9 @@
 
 - 👨‍💻 Organization: *Governor's School for Science and Technology* 
 
-- 📫 How to reach me **suzicka@gmail.com**
+- 📫 How to reach me: **suzicka@gmail.com**
 
-- ⚡ Fun fact **I adore cats** 🐈‍⬛
+- ⚡ Fun fact: **I adore cats** 🐈‍⬛
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
