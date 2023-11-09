@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sladjana! ⭐ </h1>
 <h3 align="center">A little about me ❤️ </h3>
+<img align="center" alt="stars" width="60" src="https://www.icegif.com/wp-content/uploads/2023/08/icegif-633.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasuzic&label=Profile%20views&color=0e75b6&style=flat" alt="anasuzic" /> </p>
 
