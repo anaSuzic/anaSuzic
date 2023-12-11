@@ -10,7 +10,7 @@
 
 - 👨‍💻 Organization: *Governor's School for Science and Technology* 
 
-- 📫 How to reach me: **suzicka@gmail.com**
+- 📫 How to reach me: **suzicka01@gmail.com**
 
 - ⚡ Fun fact: **I adore cats** 🐈‍⬛
 
