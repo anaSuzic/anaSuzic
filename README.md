@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/tY8EBqkuF7IAAAAC/cat-keyboard-smash.gif">
 
-- 🌱 I’m currently learning: **C++, Linux, Blender**
+- 🌱 I’m currently learning: **C++, Linux, Python**
 
 - 👨‍💻 Organization: *Governor's School for Science and Technology* 
 
